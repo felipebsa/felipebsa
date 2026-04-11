@@ -36,6 +36,7 @@ Aplicar meus conhecimentos em lógica e informática em uma oportunidade de **es
 
 ### Contato:
 - **Email:** [felipessantosbsa@gmail.com]
+- **Linkedin:** [https://www.linkedin.com/in/felipe-barbosa-santos-b402a33a8/]
 - **Cidade:** Jundiaí - SP
 
 ---
