@@ -1,40 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Felipe%20Barbosa%20Santos&fontSize=40&fontColor=58a6ff&fontAlignY=38&desc=DS%20%7C%20Python%20%C2%B7%20Backend%20%C2%B7%20SQL&descAlignY=60&descSize=18&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Felipe%20Barbosa%20Santos&fontSize=40&fontColor=58a6ff&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20%7C%20ETEC%20Vasco%20Antonio%20Venchiarutti&descAlignY=60&descSize=16&descColor=8b949e" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudante+de+DS+na+ETEC;Python+%7C+FastAPI+%7C+SQL;Buscando+est%C3%A1gio+na+%C3%A1rea+de+tech)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Python+%7C+Backend+%7C+SQL+%7C+FastAPI;Autodidata+e+focado+em+crescimento+t%C3%A9cnico;Buscando+est%C3%A1gio+em+tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-Sou de Jundiaí-SP, estudo Desenvolvimento de Sistemas na ETEC Vasco Antonio Venchiarutti. Autodidata, gosto de lógica e de entender como as coisas funcionam por dentro. Mexo com manutenção e formatação de PCs e notebooks também.
+### 👨‍💻 Sobre mim
+
+Sou de Jundiaí-SP, autodidata, focado em crescimento técnico e acadêmico. Busco aplicar disciplina, facilidade com lógica e conhecimentos multidisciplinares para resolver problemas reais na área de tecnologia.
+
+- 🎓 Cursando o 1º ano do Ensino Médio Técnico em **Desenvolvimento de Sistemas**
+- 🔧 Realizo manutenção e formatação de computadores e notebooks
+- 🐍 Focado em **Python**, **Backend** e **SQL**
+- 🎯 Buscando oportunidade de **estágio** na área de tecnologia
 
 ---
 
-### Conquistas
+### 🏅 Reconhecimento e Conquistas
 
-- **Medalha de Prata** - OBMASP (Olimpíada de Matemática das Escolas Estaduais de São Paulo NIVEL: 3) [18/20]
-- **Medalha de Bronze** - OLISP (Olimpíada Interpreta SP NIVEL: 3) [17/20]
-- **Medalha de Ouro** - Prova_Paulista 1º ano (1ºBM. [8.44]) (2ºBM. [9.67]) (3ºBM. [8.88])
-- **Menção Honrosa** - OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas NIVEL: 3, FASE: 2)
-- **Destaque OLITEF** - OLITEF (Olimpíada do Tesouro Direto de Educação Financeira NIVEL: 3) [68/74]
-
----
-
-### Estudando agora
-
-- FastAPI + SQLAlchemy pro backend
-- SQL e modelagem de banco de dados
-- Lógica de programação com C e Python
+| Conquista | Competição | Detalhes |
+|-----------|-----------|----------|
+| 🥈 **Medalha de Prata** | OBMASP — Olimpíada de Matemática das Escolas Estaduais de SP | Nível 3 — 18/20 |
+| 🥉 **Medalha de Bronze** | OLISP — Olimpíada Interpreta SP | Nível 3 — 17/20 |
+| 🥇 **Medalha de Ouro** | Prova Paulista 1º ano | 1ºBM [8.44] · 2ºBM [9.67] · 3ºBM [8.88] |
+| 🏆 **Menção Honrosa** | OBMEP — Olimpíada Brasileira de Matemática das Escolas Públicas | Nível 3, Fase 2 |
+| ⭐ **Destaque** | OLITEF — Olimpíada do Tesouro Direto de Educação Financeira | Nível 3 — 68/74 |
 
 ---
 
-### Linguagens e Ferramentas
+### 📚 Estudando atualmente
 
-**Linguagens:**
+- 🔹 Aprofundando **FastAPI** + **SQLAlchemy** para desenvolvimento backend
+- 🔹 Praticando **SQL** e modelagem de banco de dados
+- 🔹 Estudando lógica de programação com **C** e **Python**
+- 🔹 Explorando conceitos de **API REST** e arquitetura de software
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+**Linguagens & Frameworks:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -55,10 +65,15 @@ Sou de Jundiaí-SP, estudo Desenvolvimento de Sistemas na ETEC Vasco Antonio Ven
 
 ---
 
-### Contato
+### 📫 Contato
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-felipessantosbsa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipessantosbsa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Barbosa_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-barbosa-santos-b402a33a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Barbosa%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-barbosa-santos-b402a33a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-felipebsa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipebsa)
+
+</div>
 
 ---
 
