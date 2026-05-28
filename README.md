@@ -42,6 +42,8 @@ Sou de Jundiaí-SP, autodidata, focado em crescimento técnico e acadêmico. Bus
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipebsa&show_icons=true&theme=dark)
+
 ### Objetivo:
 Aplicar meus conhecimentos em lógica e informática em uma oportunidade de **estágio** na área de tecnologia e desenvolvimento de software.
 
