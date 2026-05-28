@@ -63,7 +63,8 @@ PC assembly, component diagnostics, notebook maintenance and formatting.
 ## Currently
 
 - Enrolled in the 1st year of the Technical High School in Systems Development.
-- Computer maintenance and formatting.
+- English: B1-B2 (Intermediate)
+- Expected graduation: December 2028
 
 ---
 
