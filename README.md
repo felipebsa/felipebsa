@@ -1,7 +1,5 @@
 ![banner](Animation.gif)
 
-# Felipe Barbosa Santos
-
 **Backend Developer in training | ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
 
 From Jundiaí, self-taught, focused on technical and academic growth. I look for discipline, logical thinking and multidisciplinary knowledge to solve real problems in technology.
