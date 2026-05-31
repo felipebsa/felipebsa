@@ -47,7 +47,7 @@ PC assembly, component diagnostics, notebook maintenance and formatting.
 | Project | Description | Stack |
 |---|---|---|
 | [cvvj](https://github.com/felipebsa/cvvj) | Backend system for organizing and managing vintage vehicles from Jundiaí | Python · FastAPI · SQLAlchemy · SQLite |
-| [Contractsys](https://github.com/felipebsa/Contractsys) | Contract management system with login and authentication | Python · Flask · SQLite |
+| [Contractsys](https://github.com/felipebsa/Contractsys) | Contract management system with login and authentication | Python · Flask/Flask-Login · SQLite |
 
 ---
 
