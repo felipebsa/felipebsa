@@ -74,3 +74,5 @@ PC assembly, component diagnostics, notebook maintenance and formatting.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-barbosa-santos-b402a33a8/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipessantosbsa@gmail.com)
 ![Location](https://img.shields.io/badge/Jundiaí,_SP-333333?style=flat-square&logo=googlemaps&logoColor=white)
+
+![3D Contribution Graph](https://raw.githubusercontent.com/felipebsa/felipebsa/output/profile-night-green.svg)
