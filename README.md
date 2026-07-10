@@ -77,4 +77,4 @@ PC assembly, component diagnostics, notebook maintenance and formatting.
 
 ## GitHub Stats
 
-![3D Contribution Graph](https://raw.githubusercontent.com/felipebsa/felipebsa/main/profile-3d-contrib/profile-night-green.svg)
+<img src="https://raw.githubusercontent.com/felipebsa/felipebsa/main/profile-3d-contrib/profile-night-green.svg" width="600">
