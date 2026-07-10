@@ -75,4 +75,6 @@ PC assembly, component diagnostics, notebook maintenance and formatting.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipessantosbsa@gmail.com)
 ![Location](https://img.shields.io/badge/Jundiaí,_SP-333333?style=flat-square&logo=googlemaps&logoColor=white)
 
-![3D Contribution Graph](https://raw.githubusercontent.com/felipebsa/felipebsa/output/profile-night-green.svg)
+## GitHub Stats
+
+![3D Contribution Graph](https://raw.githubusercontent.com/felipebsa/felipebsa/main/profile-3d-contrib/profile-night-green.svg)
