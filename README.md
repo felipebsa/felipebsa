@@ -1,8 +1,8 @@
 # Felipe Barbosa Santos
 
-**Backend Developer in training | ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
+**Backend Developer | ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
 
-From Jundiaí, self-taught, focused on technical and academic growth. I look for discipline, logical thinking and multidisciplinary knowledge to solve real problems in technology.
+From Jundiaí, self-taught, focused on technical and academic growth. I bring discipline, logical thinking, and multidisciplinary knowledge to solve real problems in technology.
 
 ---
 
@@ -28,6 +28,7 @@ Looking for an internship opportunity in software development, where I can apply
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tools:**
 
