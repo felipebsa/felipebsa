@@ -47,7 +47,7 @@ PC assembly, component diagnostics, notebook maintenance and formatting.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Nippon-System](https://github.com/felipebsa/nippon-system) | Full-stack management system for an auto detailing shop, deployed on Railway + Netlify — client/vehicle/service tracking, delivery calendar, financial dashboard, WhatsApp quote form. **[Live demo](https://nippon-system.netlify.app/index.html)** | Python · FastAPI · SQLAlchemy · PostgreSQL · JWT |
+| [Nippon-System](https://github.com/felipebsa/nippon-system) | Full-stack management system for an auto detailing shop, deployed on Railway + Netlify — client/vehicle/service tracking, delivery calendar, financial dashboard, WhatsApp quote form. **[Live demo](https://nippon-detail.netlify.app/index.html)** | Python · FastAPI · SQLAlchemy · PostgreSQL · JWT |
 | [CVVJ](https://github.com/felipebsa/cvvj) | Full-stack system for organizing and managing vintage vehicles from Jundiaí | Python · FastAPI · SQLAlchemy · SQLite |
 | [Contractsys](https://github.com/felipebsa/Contractsys) | Contract management system with login and authentication | Python · Flask/Flask-Login · SQLite |
 
