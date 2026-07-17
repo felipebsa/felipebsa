@@ -1,7 +1,7 @@
-# Felipe Barbosa Santos
+# Felipe Barbosa Santos &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C3EF5?style=for-the-badge)](https://felipebsa.github.io/)
+
 
 **Backend Developer | Systems Development Student at ETEC Vasco Antonio Venchiarutti**
-
 From Jundiaí, self-taught, focused on technical and academic growth. I bring discipline, logical thinking, and multidisciplinary knowledge to solve real problems in technology.
 
 ---
