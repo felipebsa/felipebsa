@@ -60,7 +60,7 @@ Repositories where I document my learning process on specific topics:
 | Repository | Focus | Stack |
 |---|---|---|
 | [sql-study](https://github.com/felipebsa/sql-study) | Raw SQL practice (JOINs, GROUP BY, HAVING, subqueries) using the real schema from Nippon Detail & Custom, as a complement to daily SQLAlchemy usage | PostgreSQL |
-| [Backend-Learning](https://github.com/felipebsa/Backend-Learning) | Backend development journey — FastAPI, SQLAlchemy 2.0, full CRUD, project structure | Python · FastAPI · SQLAlchemy · Alembic |
+| [Backend-Learning](https://github.com/felipebsa/Backend-Learning) | Backend development journey — FastAPI, SQLAlchemy 2.0, full CRUD, project structure | Python · FastAPI · SQLAlchemy · Alembic · Pytest |
 | [JS-Studies](https://github.com/felipebsa/JS-Studies) | JavaScript fundamentals and DOM manipulation, focused on frontend integration with REST APIs | JavaScript · HTML5 |
 | [Language-C](https://github.com/felipebsa/Language-C) | C/C++ studies focused on algorithmic problem-solving, training for OBI (Brazilian Informatics Olympiad). | C · C++ |
 
