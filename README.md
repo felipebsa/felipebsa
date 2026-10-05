@@ -34,10 +34,15 @@ Looking for a backend internship opportunity, where I can apply my skills in Pyt
 **Tools:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+
+**Databases:**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Hardware:**
 
@@ -49,8 +54,8 @@ PC assembly, component diagnostics, notebook maintenance and formatting.
 
 | Project | Description | Stack |
 |---|---|---|
-| [LocTis](https://github.com/felipebsa/LocTis) | Multi-tenant SaaS backend for landlords to manage rental properties, contracts, and clients — with isolated workspaces per landlord and built-in financial tracking. 🚧 *In development.* | Python · FastAPI · SQLAlchemy · PostgreSQL · Alembic · JWT · Docker · Pytest |
-| [Nippon-System](https://github.com/felipebsa/nippon-system) | Full-stack management system for an auto detailing shop, deployed on Railway + Netlify — client/vehicle/service tracking, delivery calendar, financial dashboard, WhatsApp quote form. **[Live demo](https://nippon-detail.netlify.app/index.html)** | Python · FastAPI · SQLAlchemy · PostgreSQL · JWT |
+| [LocTis](https://github.com/felipebsa/LocTis) | Multi-tenant SaaS for landlords to manage rental properties, contracts, clients, services, and notes, with isolated workspaces per landlord. 🚧 *In development.* | Python · FastAPI · SQLAlchemy · PostgreSQL · Alembic · JWT · Docker · Pytest |
+| [Nippon-System](https://github.com/felipebsa/nippon-system) | Full-stack management system for an auto detailing shop, deployed on Railway + Netlify, client/vehicle/service tracking, delivery calendar, financial dashboard, WhatsApp quote form. **[Live demo](https://nippon-detail.netlify.app/index.html)** | Python · FastAPI · SQLAlchemy · PostgreSQL · JWT |
 | [CVVJ](https://github.com/felipebsa/cvvj) | Full-stack system for organizing and managing vintage vehicles from Jundiaí | Python · FastAPI · SQLAlchemy · SQLite |
 | [Contractsys](https://github.com/felipebsa/Contractsys) | Contract management system with login and authentication | Python · Flask/Flask-Login · SQLite |
 
