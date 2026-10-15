@@ -58,7 +58,6 @@ PC assembly, component diagnostics, notebook maintenance and formatting.
 | [Nippon-System](https://github.com/felipebsa/nippon-system) | Full-stack management system for an auto detailing shop, deployed on Railway + Netlify, client/vehicle/service tracking, delivery calendar, financial dashboard, WhatsApp quote form. **[Live demo](https://nippon-detail.netlify.app/index.html)** | Python · FastAPI · SQLAlchemy · PostgreSQL · JWT · Alembic |
 | [CVVJ](https://github.com/felipebsa/cvvj) | Full-stack system for organizing and managing vintage vehicles from Jundiaí | Python · FastAPI · SQLAlchemy · SQLite |
 | [Contractsys](https://github.com/felipebsa/Contractsys) | Contract management system with login and authentication | Python · Flask/Flask-Login · SQLite |
-| [hackerrank_studies](https://github.com/felipebsa/hackerrank_studies) | Daily practice of programming logic and Python on HackerRank, with every challenge and note written in English, to keep my fundamentals sharp for technical interviews. | Python |
 
 ---
 ## Study Repositories
@@ -71,6 +70,7 @@ Repositories where I document my learning process on specific topics:
 | [Backend-Learning](https://github.com/felipebsa/Backend-Learning) | Backend development journey — FastAPI, SQLAlchemy 2.0, full CRUD, project structure | Python · FastAPI · SQLAlchemy · Alembic · Pytest |
 | [JS-Studies](https://github.com/felipebsa/JS-Studies) | JavaScript fundamentals and DOM manipulation, focused on frontend integration with REST APIs | JavaScript · HTML5 |
 | [Language-C](https://github.com/felipebsa/Language-C) | C/C++ studies focused on algorithmic problem-solving, training for OBI (Brazilian Informatics Olympiad). | C · C++ |
+| [hackerrank_studies](https://github.com/felipebsa/hackerrank_studies) | Daily practice of programming logic and Python on HackerRank, with every challenge and note written in English, to keep my fundamentals sharp for technical interviews. | Python |
 
 ---
 
