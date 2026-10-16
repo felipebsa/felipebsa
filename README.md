@@ -71,6 +71,7 @@ Repositories where I document my learning process on specific topics:
 | [JS-Studies](https://github.com/felipebsa/JS-Studies) | JavaScript fundamentals and DOM manipulation, focused on frontend integration with REST APIs | JavaScript · HTML5 |
 | [Language-C](https://github.com/felipebsa/Language-C) | C/C++ studies focused on algorithmic problem-solving, training for OBI (Brazilian Informatics Olympiad). | C · C++ |
 | [hackerrank_studies](https://github.com/felipebsa/hackerrank_studies) | Daily practice of programming logic and Python on HackerRank, with every challenge and note written in English, to keep my fundamentals sharp for technical interviews. | Python |
+| [architecture-studies](https://github.com/felipebsa/architecture-studies) | Software architecture theory (architectural styles, patterns, SOLID, dependency inversion), with notes in English and Portuguese and connections to my own projects like LocTis and Nippon-System | Markdown |
 
 ---
 
